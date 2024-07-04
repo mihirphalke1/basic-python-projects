@@ -1,7 +1,19 @@
 import random
 print("Welcome to hangman!")
 
-word_list = ["aardvark", "baboon", "camel"]
+word_list =[
+    "elephant", "computer", "guitar", "pineapple", "kangaroo", 
+    "helicopter", "strawberry", "butterfly", "basketball", "astronaut", 
+    "chocolate", "umbrella", "dragonfly", "pineapple", "waterfall", 
+    "mermaid", "rainbow", "crocodile", "skateboard", "spaceship", 
+    "caterpillar", "octopus", "telescope", "scorpion", "fireworks", 
+    "saxophone", "snowflake", "giraffe", "popcorn", "treasure", 
+    "mushroom", "snowman", "seahorse", "vampire", "dinosaur", 
+    "magician", "pineapple", "platypus", "tambourine", "koala", 
+    "accordion", "helicopter", "compass", "pineapple", "hummingbird", 
+    "iguana", "pineapple", "accordion", "kangaroo", "dragon"
+]
+
 a=random.choice(word_list)                          #choose a random word from wordlist
 
 word=[]
