@@ -1,5 +1,6 @@
-# basic-python-projects
-This collection features a variety of Python projects that I've created while learning from Angela Yu's Python Course to sharpen my programming skills. Each project highlights different aspects of Python!
+# Description of each program!
+
+This collection features a variety of Python programs that I've created while learning from Angela Yu's Python Course to sharpen my programming skills. Each program highlights different aspects of Python!
 
 Here is a brief desciption about each project:
 
