@@ -11,7 +11,11 @@ def multiply(a,b):
 
 
 def divide(a,b):
-    return a/b
+    if b!=0:
+        return a/b
+    else:
+        print("Cannot divide by 0")
+        return None
 
 
 #function to call particular operation function based on the input and store the result in a variable named answer.
