@@ -1,4 +1,4 @@
-# Description of each program!
+# Description of each program
 
 This collection features a variety of Python programs that I've created while learning from Angela Yu's Python Course to sharpen my programming skills. Each program highlights different aspects of Python!
 
